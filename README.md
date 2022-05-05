@@ -1,3 +1,3 @@
 # POO-PHP  
 
-Training with classes and object in PHP (+ MVC pattern).
+Training with classes and objects in PHP (+ MVC pattern).
